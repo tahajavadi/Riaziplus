@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ریاضی+</string>
+    <string name="title_activity_main">ریاضی+</string>
+    <string name="package_name">com.tahajavadi.riaziplus</string>
+    <string name="custom_url_scheme">com.tahajavadi.riaziplus</string>
+</resources>
